@@ -112,26 +112,26 @@ import {
       name: "Python",
       icon: python,
     },
-    {
-      name: "MySQL",
-      icon: mysql,
-    },  
+    // {
+    //   name: "MySQL",
+    //   icon: mysql,
+    // },  
     {
       name: "PostgreSQL",
       icon: PostgreSQL,      
     },
-    {
-      name: "MongoDB",
-      icon: mongodb,
-    },
+    // {
+    //   name: "MongoDB",
+    //   icon: mongodb,
+    // },
     {
       name: "git",
       icon: git,
     },
-    {
-      name: "API",
-      icon: API,
-    },
+    // {
+    //   name: "API",
+    //   icon: API,
+    // },
   
   
     // {
